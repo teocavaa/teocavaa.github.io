@@ -103,13 +103,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Matteo Cavalleri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Ingegnere"
+  location         : "Cantù (CO)"
   email            :
   links:
-    - label: "Email"
+    - label: "mattecava02@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
