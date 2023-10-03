@@ -1,18 +1,15 @@
 ---
-title: Progetti
+title: Home Assistant
 date: 2023-10-02 21:13:00 +/-0000
 categories: [Personal Project]
 tags: []     # TAG names should always be lowercase
 ---
-# Progetti personali
 
-## Home Assistant
+# Home Assistant
 
 *Progetto personale di domotica*
 ![hassio](/assets/img/hassio.png)
 
 ![Raspberry_PI_4](/assets/img/Raspberry%20Pi%204.png)
 
-
-## BitEvent
 
