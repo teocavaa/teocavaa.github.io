@@ -20,7 +20,7 @@ timezone: Europe/Rome
 
 title: Matteo Cavalleri # the main title
 
-tagline: I'm an engineer from Politecnico di Milano  # it will display as the sub-title
+tagline: Sono un ingegnere del Politecnico di Milano  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 
@@ -75,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/profilo.jpg
+avatar: /assets/img/profilo.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
