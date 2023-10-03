@@ -5,9 +5,8 @@ categories: [Personal Project]
 tags: []     # TAG names should always be lowercase
 ---
 
-# Home Assistant
 
-*Progetto personale di domotica*
+***Progetto personale di domotica***
 ![hassio](/assets/img/hassio.png)
 
 ![Raspberry_PI_4](/assets/img/Raspberry%20Pi%204.png)
