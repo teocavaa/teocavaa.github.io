@@ -17,6 +17,7 @@ Attualmente insegno materie scientifiche quali:
 - *Informatica* (Basi di programmazione e teoria)
 - *Chimica inorganica*
 <br>
+<br>
 <img src="/assets/img/prof.png" alt="Prof" width="40%" height="40%">
 <br>
 
