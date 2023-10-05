@@ -24,3 +24,9 @@ Dopo aver installato ed eseguito il setup del sistema è possibile andare ad agg
 È possibile creare automazioni tramite l'ausilio di sensori in modo da rendere maggiormente autogestita la propria abitazione.
 <br>
 <img src="/assets/img/plancia.avif" alt="Plancia" width="50%" height="50%">
+
+> Se vuoi saperne di più sui sensori <a href="https://teocavaa.github.io/posts/Arduino/">clicca qui</a>
+{: .prompt-info }
+<br>
+> Per saperne di più <a href="mailto:mattecava02@gmail.com">contattami</a>
+{: .prompt-info }
