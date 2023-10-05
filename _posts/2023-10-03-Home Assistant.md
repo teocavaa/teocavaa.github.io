@@ -25,6 +25,7 @@ Dopo aver installato ed eseguito il setup del sistema è possibile andare ad agg
 <br>
 <img src="/assets/img/plancia.avif" alt="Plancia" width="50%" height="50%">
 <br>
+
 > Se vuoi saperne di più sui sensori <a href="https://teocavaa.github.io/posts/Arduino/">clicca qui</a>
 {: .prompt-info }
 
