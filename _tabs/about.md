@@ -10,8 +10,6 @@ Sito a utilizzo *personale* di Matteo Cavalleri.
 <br>
 Tutti i progetti sono strettamente personali.
 
-[CV](/assets/CV%20finale.pdf)
-
 > Per suggerimenti e/o informazioni contattare <a href="mailto:mattecava02@gmail.com">mattecava02@gmail.com</a>
 {: .prompt-info }
 
