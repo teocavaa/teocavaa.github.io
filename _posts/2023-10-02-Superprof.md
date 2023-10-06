@@ -18,7 +18,7 @@ Attualmente insegno materie scientifiche quali:
 - *Chimica inorganica*
 <br>
 <br>
-<img src="/assets/img/prof.png" alt="Prof" width="45%" height="45%">
+<img src="/assets/img/prof.png" alt="Prof" width="40%" height="40%">
 <br>
 
 [Clicca se hai bisogno di ripetizioni](https://www.superprof.it/studente-ingegneria-del-politecnico-milano-impartisce-lezioni-matematica-fisica-informatica-per-scuola-media-superiore.html)
