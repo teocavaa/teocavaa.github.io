@@ -5,7 +5,7 @@ categories: [Personal Project]
 tags: [project]     # TAG names should always be lowercase
 ---
 
-![Icona](/assets/img/superprof.png)
+<img src="/assets/img/superprof.png" alt="Prof" width="60%" height="60%">
 
 
 **Superprof** è un servizio che permette di mettersi in contatto con insegnanti e studenti per fare lezioni extra scolastiche al fine di consolidare le conoscenze acquisite e/o riguardare argomenti poco chiari.
