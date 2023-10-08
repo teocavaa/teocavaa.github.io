@@ -8,7 +8,7 @@ tags: [project]     # TAG names should always be lowercase
 
 ## ***Domotica***
 
-<img src="/assets/img/hassio.png" alt="Hassio" width="50%" height="50%">
+<img src="/assets/img/hassio.png" alt="Hassio" width="37%" height="37%">
 
 ***Home Assistant*** è un software open source per l'automazione domestica.
 Principalmente viene utilizzato per la gestione dei sistemi "*smart*" che possono connettersi alla rete.
@@ -16,7 +16,7 @@ Principalmente viene utilizzato per la gestione dei sistemi "*smart*" che posson
 Per l'installazione del software bisogna ricorrere ad un processore come un computer (seppur risulti scomodo e ingombrante) oppure ad una scheda <a href="https://teocavaa.github.io/posts/Sviluppo/">**Raspberry Pi**</a>
 <br>
 
-<img src="/assets/img/Raspberry Pi 4.png" alt="RPI4" width="40%" height="40%">
+<img src="/assets/img/Raspberry Pi 4.png" alt="RPI4" width="50%" height="50%">
 
 <br>
 Dopo aver installato ed eseguito il setup del sistema è possibile andare ad aggiungere i propri dispostivi *intelligenti* e a modificare a proprio piacimento la schermata principale.
