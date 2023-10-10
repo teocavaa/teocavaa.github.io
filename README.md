@@ -1,5 +1,4 @@
-# teocavaa.github.io
-### Sito web personale
+# Personal Website
 <br>
 
 *This is the code for my website.*
