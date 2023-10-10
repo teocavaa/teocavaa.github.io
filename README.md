@@ -2,9 +2,8 @@
 ### Sito web personale
 <br>
 
-In questa repository è presente il mio sito web 
+*This is the code for my website.*
 <br>
-Per chiunque vorresse prendere spunto o semplicemente dare un occhiata
+To everyone who want start to create his personal site or just give some advice to update mine.
 <br>
-[Clicca qui per il sito](https://teocavaa.github.io)
-
+https://teocavaa.github.io
