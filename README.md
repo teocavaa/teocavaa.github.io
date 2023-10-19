@@ -5,4 +5,8 @@
 <br>
 To everyone who want start to create his personal site or just give some advice to update mine.
 <br>
+I'm going to insert my career and all my personal, or group, project for the university or for my personal use.
+<br>
+If you want to see click the link below ↓
+<br>
 https://teocavaa.github.io
