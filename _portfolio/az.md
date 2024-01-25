@@ -3,7 +3,7 @@ title: "AZ Pneumatica"
 excerpt: "Azienda"
 header:
   image: /assets/images/az.png
-  
+  teaser: /assets/images/az.png
 sidebar:
   - title: "Operatore metalmeccanico"
     image: /assets/images/avatar.png
