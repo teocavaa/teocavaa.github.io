@@ -1,0 +1,11 @@
+Matteo Cavalleri:
+  name        : "Matteo Cavalleri"
+  bio         : "Ready to innovation"
+  avatar      : "/assets/images/avatar.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mattecava02@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://teocavaa.github.io/"
