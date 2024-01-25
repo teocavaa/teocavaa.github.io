@@ -110,12 +110,9 @@ author:
   location         : "Como (CO)"
   email            :  "mattecava02@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mattecava02@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://teocavaa.github.io/home/"
+      url: "https://teocavaa.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -128,6 +125,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label:
+      icon: "fa-solid fa-briefcase"
+      url: "https://teocavaa.github.io/portfolio/"
 
 # Site Footer
 footer:
