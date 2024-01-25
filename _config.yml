@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Matteo Cavalleri"
 description              : "Studente di ingegneria."
-url                      : "https://teocavaa.github.io/"
+url                      : "https://teocavaa.github.io/home/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "teocavaa/teocavaa.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
