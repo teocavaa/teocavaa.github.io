@@ -1,9 +1,9 @@
 ---
 title: "Laurea"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Percorso universitario"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/quantistica.png
+  teaser: assets/images/lampone.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
