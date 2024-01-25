@@ -125,9 +125,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label:
-      icon: "fa-solid fa-briefcase"
-      url: "https://teocavaa.github.io/portfolio/"
 
 # Site Footer
 footer:
