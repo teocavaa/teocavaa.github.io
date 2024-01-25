@@ -24,7 +24,7 @@ description              : "Studente di ingegneria."
 url                      : "https://teocavaa.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "teocavaa/teocavaa.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/parigi.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Laureando in ingegneria dell'automazione"
   location         : "Como (CO)"
-  email            :
+  email            :  "mattecava02@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -278,6 +278,8 @@ compress_html:
 
 include: ["_pages"]
 
+search: true
+
 collections:
   portfolio:
     output: true
@@ -290,7 +292,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
@@ -303,7 +305,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
 
 defaults:
@@ -312,6 +314,6 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: splash
+      layout: single
       author_profile: false
       share: true
