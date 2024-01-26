@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "it-IT"
-title                    : "Personale"
+title                    : "Benvenuti"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Matteo Cavalleri"
@@ -125,6 +125,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Reddit"
+      icon: ".fa-reddit"
+      url: https://reddit.com"
 
 # Site Footer
 footer:
@@ -287,7 +290,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       layout: single
       author_profile: true
