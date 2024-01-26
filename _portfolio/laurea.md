@@ -2,7 +2,7 @@
 title: "Laurea"
 excerpt: "Percorso universitario"
 header:
-  image: /assets/images/automazione.webp
+  image: /assets/images/automazione.jpg
   teaser: assets/images/lau.jpg
 sidebar:
   - title: "Ruolo"
