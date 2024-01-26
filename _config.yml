@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Reddit"
-      icon: ".fa-reddit"
+      icon: "fa-reddit"
       url: https://reddit.com"
 
 # Site Footer
@@ -290,7 +290,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: _posts
+      type: posts
     values:
       layout: single
       author_profile: true
