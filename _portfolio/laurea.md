@@ -2,7 +2,7 @@
 title: "Laurea"
 excerpt: "Percorso universitario"
 header:
-  image: /assets/images/automazione.jpg
+  image: /assets/images/lau.jpg
   teaser: assets/images/lau.jpg
 sidebar:
   - title: "Ruolo"
@@ -12,12 +12,12 @@ sidebar:
   - title: "Responsabilità"
     text: "Studiare"
 gallery:
+  - url: /assets/images/automazione.jpg
+    image_path: assets/images/automazione.jpg
+    alt: "Automazione"
   - url: /assets/images/quantistica.png
     image_path: assets/images/quantistica.png
     alt: "Meccanica quantistica"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"

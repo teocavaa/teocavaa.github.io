@@ -126,8 +126,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Reddit"
-      icon: "fa fa-reddit"
+      icon: "fab fa-reddit"
       url: https://reddit.com"
+      color: #ff4500
 
 # Site Footer
 footer:
