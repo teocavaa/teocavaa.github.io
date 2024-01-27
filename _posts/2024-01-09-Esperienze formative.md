@@ -1,7 +1,7 @@
 ---
-title: "Carriera"
+title: "Esperienze formative"
 layout: splash
-permalink: /carriera/
+permalink: /exp/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: Matteo Cavalleri"
 excerpt: "Chi si ferma è perduto."
 intro: 
-  - excerpt: 'Ecco la raccolta dei miei progetti.'
+  - excerpt: 'Ecco alcuni dei miei progetti ed esperienze svolte durante il mio percorso di formazione.'
 feature_row:
   - image_path: assets/images/polimi.jpg
     alt: "PoliMI"
