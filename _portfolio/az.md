@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/az.png
 sidebar:
   - title: "Operatore metalmeccanico"
-    image: /assets/images/avatar.png
+    image: /assets/images/profile.jpg
     image_alt: "logo"
     text: "Metalmeccanico"
   - title: "Responsabilità"

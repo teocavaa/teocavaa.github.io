@@ -6,7 +6,7 @@ header:
   teaser: assets/images/lau.jpg
 sidebar:
   - title: "Ruolo"
-    image: /assets/images/avatar.png
+    image: /assets/images/profile.jpg
     image_alt: "Avatar"
     text: "Studente di ingegneria dell'automazione"
   - title: "Responsabilità"
