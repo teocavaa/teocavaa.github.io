@@ -125,14 +125,14 @@ author:
       url: "https://github.com/teocavaa/teocavaa.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/teocavaa?igsh=anZ6djF1Y2puZDRo"
+      url: "https://www.instagram.com/_teocavaa_/"
       color: #C017FF
     - label: "Reddit"
       icon: "fab fa-reddit"
       url: "https://www.reddit.com/user/Ok-Transportation341"
       color: #ff4500
     - label: "Buy me a coffee"
-      icon: "fab fa-buymeacoffee"
+      icon: "fas fa-coffee"
       url: "https://www.buymeacoffee.com/mattecava0n"
       color: #FFD607
 
@@ -150,7 +150,7 @@ footer:
       url: "https://www.reddit.com/user/Ok-Transportation341"
       color: #ff4500
     - label: "Buy me a coffee"
-      icon: "fab fa-buymeacoffee"
+      icon: "fas fa-coffee"
       url: "https://www.buymeacoffee.com/mattecava0n"
       color: #FFD607
     - label: "GitHub"
@@ -164,7 +164,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/teocavaa?igsh=anZ6djF1Y2puZDRo"
+      url: "https://www.instagram.com/_teocavaa_/"
       color: #C017FF
 
 
