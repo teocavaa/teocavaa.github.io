@@ -18,9 +18,9 @@ gallery:
   - url: /assets/images/quantistica.png
     image_path: assets/images/quantistica.png
     alt: "Meccanica quantistica"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/plc.jpg
+    image_path: assets/images/plc.jpg
+    alt: "Eventi discreti, simulazione"
 ---
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Immagini riservate." %}

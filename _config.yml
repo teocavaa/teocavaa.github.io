@@ -116,6 +116,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+      # color: #07A1FF
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,11 +125,16 @@ author:
       url: "https://github.com/teocavaa/teocavaa.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/teocavaa?igsh=anZ6djF1Y2puZDRo"
+      color: #C017FF
     - label: "Reddit"
       icon: "fab fa-reddit"
-      url: https://reddit.com"
+      url: "https://www.reddit.com/user/Ok-Transportation341"
       color: #ff4500
+    - label: "Buy me a coffee"
+      icon: "fab fa-buymeacoffee"
+      url: "https://www.buymeacoffee.com/mattecava0n"
+      color: #FFD607
 
 # Site Footer
 footer:
@@ -139,6 +145,14 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "Reddit"
+      icon: "fab fa-reddit"
+      url: "https://www.reddit.com/user/Ok-Transportation341"
+      color: #ff4500
+    - label: "Buy me a coffee"
+      icon: "fab fa-buymeacoffee"
+      url: "https://www.buymeacoffee.com/mattecava0n"
+      color: #FFD607
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/teocavaa/teocavaa.github.io
@@ -150,7 +164,8 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/teocavaa?igsh=anZ6djF1Y2puZDRo"
+      color: #C017FF
 
 
 # Reading Files

@@ -1,6 +1,6 @@
 ---
 title: "Informazioni"
-permalink: /about.html
+permalink: /about/
 ---
 
 Informazioni sul sito
