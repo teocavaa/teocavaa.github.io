@@ -5,33 +5,32 @@ permalink: /exp/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/logo.png
+  overlay_image: /assets/images/exp.jpeg
   actions:
-    - label: "Download CV"
+    - label: "PDF"
       url: "/assets/images/cv.pdf"
-  caption: "Photo credit: Matteo Cavalleri"
-excerpt: "Chi si ferma è perduto."
+excerpt: "“Saggezza e buon senso si ottengono in tre modi: primo con la riflessione, che è la cosa più nobile; secondo attraverso l'imitazione, che è la cosa più semplice; e terzo con l'esperienza, che è la cosa più amara di tutte.”"
 intro: 
-  - excerpt: 'Ecco alcuni dei miei progetti ed esperienze svolte durante il mio percorso di formazione.'
+  - excerpt: 'Raccolta delle esperienze più significative svolte.'
 feature_row:
-  - image_path: assets/images/polimi.jpg
-    alt: "PoliMI"
-    title: "Formazione universitaria"
+  - image_path: assets/images/sydney.jpg
+    alt: "Sydney"
+    title: "Esperienza australiana"
     excerpt: ""
-    url: "https://teocavaa.github.io/polimi/"
+    url: "https://teocavaa.github.io/portfolio/au/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/hci.png
-    alt: "HCI"
-    title: "Progetto per il corso di Human - Computer - Interaction"
+  - image_path: /assets/images/canterbury.jpg
+    alt: "Canterbury"
+    title: "English school on Canterbury"
     excerpt: ""
-    url: "https://teocavaa.github.io/polive/"
+    url: "https://teocavaa.github.io/portfolio/canterbury"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/az.png
-    title: "AZ Pneumatica"
+  - image_path: /assets/images/ciao.png
+    title: ""
     excerpt: ""
-    url: "https://teocavaa.github.io/portfolio/az/"
+    url: ""
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
