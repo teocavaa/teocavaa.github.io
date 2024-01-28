@@ -15,7 +15,7 @@ intro:
 feature_row:
   - image_path: assets/images/sydney.jpg
     alt: "Sydney"
-    title: "Esperienza australiana"
+    title: "Australian experience"
     excerpt: ""
     url: "https://teocavaa.github.io/portfolio/au/"
     btn_label: "Read More"
