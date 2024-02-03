@@ -2,7 +2,7 @@
 title: "Australia"
 excerpt: ""
 header:
-  image: /assets/images/canguro.png
+  image: 
   teaser: /assets/images/bandierau.png
 sidebar:
   - title: ""
