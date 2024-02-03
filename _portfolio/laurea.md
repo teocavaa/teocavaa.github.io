@@ -2,7 +2,7 @@
 title: "Laurea"
 excerpt: "Percorso universitario"
 header:
-  image: /assets/images/laurea.jpg
+  image: 
   teaser: assets/images/lau.jpg
 sidebar:
   - title: "Ruolo"

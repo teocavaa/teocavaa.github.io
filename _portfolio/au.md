@@ -2,8 +2,8 @@
 title: "Australia"
 excerpt: ""
 header:
-  image: 
-  teaser: 
+  image: /assets/images/canguro.png
+  teaser: /assets/images/bandierau.png
 sidebar:
   - title: ""
     image: /assets/images/profile.jpg
@@ -12,8 +12,8 @@ sidebar:
   - title: ""
     text: ""
 gallery:
-  - url: /assets/images/automation.png
-    image_path: assets/images/automation.png
+  - url: /assets/images/sydney.jpg
+    image_path: assets/images/sydney.jpg
     alt: ""
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg

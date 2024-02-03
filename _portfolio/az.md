@@ -1,6 +1,6 @@
 ---
 title: "AZ Pneumatica"
-excerpt: "Azienda"
+excerpt: ""
 header:
   image: /assets/images/pneu.png
   teaser: /assets/images/az.png
