@@ -24,9 +24,6 @@ feature_row:
     alt: "Canterbury"
     title: "English school on Canterbury"
     excerpt: ""
-    url: "https://teocavaa.github.io/portfolio/canterbury"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/ciao.png
     title: ""
     excerpt: ""
