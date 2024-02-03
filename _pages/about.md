@@ -1,5 +1,5 @@
 ---
-title: "Informarzioni"
+title: "Informazioni"
 layout: single
 permalink: /about/
 author_profile: true
