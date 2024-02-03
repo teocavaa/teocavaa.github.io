@@ -4,13 +4,6 @@ excerpt: "Percorso universitario"
 header:
   image: 
   teaser: assets/images/lau.jpg
-sidebar:
-  - title: "Ruolo"
-    image: /assets/images/profile.jpg
-    image_alt: "Avatar"
-    text: "Studente di ingegneria dell'automazione"
-  - title: "Responsabilità"
-    text: "Studiare"
 gallery:
   - url: /assets/images/automazione.jpg
     image_path: assets/images/automazione.jpg
