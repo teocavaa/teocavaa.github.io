@@ -1,9 +1,9 @@
 ---
-title: "Australia"
+title: "Domotica"
 excerpt: ""
 header:
   image: 
-  teaser: /assets/images/bandierau.png
+  teaser: /assets/images/domotica.webp
 gallery:
   - url: /assets/images/sydney.jpg
     image_path: assets/images/sydney.jpg
