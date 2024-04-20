@@ -5,8 +5,8 @@ header:
   image: 
   teaser: /assets/images/domotica.webp
 gallery:
-  - url: /assets/images/lampone.jpg
-    image_path: assets/images/lampone.jpg
+  - url: /assets/images/lampone.png
+    image_path: assets/images/lampone.png
     alt: "Hardware Raspberry Pi"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
