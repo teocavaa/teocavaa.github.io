@@ -25,7 +25,7 @@ url                      : "https://teocavaa.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "teocavaa/teocavaa.github.io"
 teaser                   : #
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/favicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

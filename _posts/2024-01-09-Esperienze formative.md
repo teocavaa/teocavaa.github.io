@@ -13,16 +13,15 @@ excerpt: "“Saggezza e buon senso si ottengono in tre modi: primo con la rifles
 intro: 
   - excerpt: 'Raccolta delle esperienze più significative svolte.'
 feature_row:
-  - image_path: assets/images/sydney.jpg
-    alt: "Sydney"
-    title: "Australian experience"
+  - image_path: assets/images/superprof.png
+    alt: "Superprof"
+    title: "Ripetizioni"
     excerpt: ""
-    url: "https://teocavaa.github.io/portfolio/au/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/canterbury.jpg
     alt: "Canterbury"
-    title: "English school on Canterbury"
+    title: "Canterbury"
     excerpt: ""
   - image_path: /assets/images/ciao.png
     title: ""
