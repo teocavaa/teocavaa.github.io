@@ -5,12 +5,10 @@ header:
   image: 
   teaser: /assets/images/az.png
 sidebar:
-  - title: "Operatore metalmeccanico"
-    image: /assets/images/profile.jpg
+  - title: "Operatore CNC"
+    image: /assets/images/ditta.jpg
     image_alt: "logo"
-    text: "Metalmeccanico"
-  - title: "Responsabilità"
-    text: "Utilizzo di macchinari industriali e robot"
+    text: "Utilizzo di macchinari industriali per attrezzatura pneumatica"
 gallery:
   - url: /assets/images/automation.png
     image_path: assets/images/automation.png

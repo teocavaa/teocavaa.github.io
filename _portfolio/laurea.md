@@ -7,13 +7,13 @@ header:
 gallery:
   - url: /assets/images/automazione.jpg
     image_path: assets/images/automazione.jpg
-    alt: "Automazione"
+    alt: "Immagine 1"
   - url: /assets/images/quantistica.png
     image_path: assets/images/quantistica.png
-    alt: "Meccanica quantistica"
+    alt: "Immagine 2"
   - url: /assets/images/plc.jpg
     image_path: assets/images/plc.jpg
-    alt: "Eventi discreti, simulazione"
+    alt: "Immagine 3"
 ---
 
 {% include gallery caption="Immagini riservate." %}

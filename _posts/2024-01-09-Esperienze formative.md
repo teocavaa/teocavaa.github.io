@@ -5,7 +5,7 @@ permalink: /exp/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-#  overlay_image: /assets/images/exp.jpeg
+  overlay_image: /assets/images/exp.jpeg
   actions:
     - label: "PDF"
       url: "/assets/images/cv.pdf"

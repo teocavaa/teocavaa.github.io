@@ -5,9 +5,9 @@ header:
   image: 
   teaser: /assets/images/domotica.webp
 gallery:
-  - url: /assets/images/sydney.jpg
-    image_path: assets/images/sydney.jpg
-    alt: ""
+  - url: /assets/images/lampone.jpg
+    image_path: assets/images/lampone.jpg
+    alt: "Hardware Raspberry Pi"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
