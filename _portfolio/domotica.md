@@ -11,9 +11,9 @@ gallery:
   - url: /assets/images/docker.png
     image_path: assets/images/docker.png
     alt: "Docker container"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/self.png
+    image_path: assets/images/self.png
+    alt: "Self - hosted"
 
 author_profile: true
 ---

@@ -10,11 +10,12 @@ header:
 intro: 
   - excerpt: 'Raccolta delle esperienze più significative svolte.'
 feature_row:
-  - image_path: assets/images/az.png
+  - image_path: assets/images/azpn.png
     alt: "Pneumatica"
     title: "Operatore CNC"
     excerpt: ""
     btn_label: "Read More"
+    url: "https://teocavaa.github.io/portfolio/az/"
     btn_class: "btn--primary"
   - image_path: /assets/images/canterbury.jpg
     alt: "Canterbury"
