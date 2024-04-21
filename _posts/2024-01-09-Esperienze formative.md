@@ -5,17 +5,14 @@ permalink: /exp/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/exp.jpeg
-  actions:
-    - label: "PDF"
-      url: "/assets/images/cv.pdf"
-excerpt: "“Saggezza e buon senso si ottengono in tre modi: primo con la riflessione, che è la cosa più nobile; secondo attraverso l'imitazione, che è la cosa più semplice; e terzo con l'esperienza, che è la cosa più amara di tutte.”"
+  overlay_image: /assets/images/exp.jpg
+#excerpt: "“Saggezza e buon senso si ottengono in tre modi: primo con la riflessione, che è la cosa più nobile; secondo attraverso l'imitazione, che è la cosa più semplice; e terzo con l'esperienza, che è la cosa più amara di tutte.”"
 intro: 
   - excerpt: 'Raccolta delle esperienze più significative svolte.'
 feature_row:
-  - image_path: assets/images/superprof.png
-    alt: "Superprof"
-    title: "Ripetizioni"
+  - image_path: assets/images/az.png
+    alt: "Pneumatica"
+    title: "Operatore CNC"
     excerpt: ""
     btn_label: "Read More"
     btn_class: "btn--primary"
