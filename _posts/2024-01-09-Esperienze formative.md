@@ -7,8 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/exp.jpg
 #excerpt: "“Saggezza e buon senso si ottengono in tre modi: primo con la riflessione, che è la cosa più nobile; secondo attraverso l'imitazione, che è la cosa più semplice; e terzo con l'esperienza, che è la cosa più amara di tutte.”"
-intro: 
-  - excerpt: 'Raccolta delle esperienze più significative svolte.'
 feature_row:
   - image_path: assets/images/azpn.png
     alt: "Pneumatica"
