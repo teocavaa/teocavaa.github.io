@@ -19,11 +19,13 @@ author_profile: true
 ---
 
 **Self hosted system**
+
 Per quanto riguarda l'ambito della domotica ho potuto creare e sperimentare un sistema in grado di gestire servizi sulla rete locale (localhost), senza la necessità di passare tramite server esterni.
 Questa implementazione permette più velocità di risposta e una maggior affidabilità per quanto riguarda i sistemi.
 
-<img src="/assets/images/homer.png" alt="Homer dashboard">
+<img src="/assets/images/homer.png" alt="Homer dashboard" width="80%" height="80%>
 *Dashborard dei servizi presenti sul sistema*
+
 
 
 {% include gallery caption="Image gallery." %}
