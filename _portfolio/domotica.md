@@ -24,6 +24,7 @@ Per quanto riguarda l'ambito della domotica ho potuto creare e sperimentare un s
 Questa implementazione permette più velocità di risposta e una maggior affidabilità per quanto riguarda i sistemi.
 
 <img src="/assets/images/homer.png" alt="Homer dashboard" width="80%" height="80%">
+
 *Dashborard dei servizi presenti sul sistema*
 
 
