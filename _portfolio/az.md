@@ -12,8 +12,8 @@ gallery:
   - url: /assets/images/automation.png
     image_path: assets/images/automation.png
     alt: "Automazione industriale"
-  - url: /assets/images/plcpneu.png
-    image_path: assets/images/plcpneu.png
+  - url: /assets/images/plcpneu.jpg
+    image_path: assets/images/plcpneu.jpg
     alt: "Pneumatica"
 ---
 
