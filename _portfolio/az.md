@@ -12,9 +12,9 @@ gallery:
   - url: /assets/images/automation.png
     image_path: assets/images/automation.png
     alt: "Automazione industriale"
-  - url: /assets/images/docker.png
-    image_path: assets/images/docker.png
-    alt: "Docker container"
+  - url: /assets/images/plcpneu.png
+    image_path: assets/images/plcpneu.png
+    alt: "Pneumatica"
 ---
 
 **Esperienza professionale**
