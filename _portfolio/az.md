@@ -19,7 +19,7 @@ gallery:
 
 **Esperienza professionale**
 
-Lavoro in produzione di attrezzatura pneumatica tramite lavorazioni su torni e macchine operatrici.
+Lavorazione di attrezzatura pneumatica tramite lavorazioni su torni e macchine operatrici.
 
 
 {% include gallery caption="Image gallery." %}
