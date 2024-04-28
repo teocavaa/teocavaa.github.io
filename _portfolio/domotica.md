@@ -14,8 +14,18 @@ gallery:
   - url: /assets/images/self.png
     image_path: assets/images/self.png
     alt: "Self - hosted"
-
+feature_row2:
+  - image_path: /assets/images/homer.png
+    alt: "Homer dashboard"
+    excerpt: 'Dashborard dei servizi presenti sul sistema'
+    
 author_profile: true
 ---
+
+**Self hosted system**
+Per quanto riguarda l'ambito della domotica ho potuto creare e sperimentare un sistema in grado di gestire servizi sulla rete locale (localhost), senza la necessità di passare tramite server esterni.
+Questa implementazione permette più velocità di risposta e una maggior affidabilità per quanto riguarda i sistemi.
+
+{% include feature_row id="feature_row2" type="center" %}
 
 {% include gallery caption="Image gallery." %}
