@@ -25,7 +25,7 @@ Questa implementazione permette più velocità di risposta e una maggior affidab
 
 <img src="/assets/images/homer.png" alt="Homer dashboard" width="80%" height="80%">
 
-*Dashborard dei servizi presenti sul sistema*
+<i><u>Dashborard dei servizi presenti sul sistema</u></i>
 
 
 
