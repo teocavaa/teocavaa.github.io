@@ -29,4 +29,4 @@ Questa implementazione permette più velocità di risposta e una maggior affidab
 
 
 
-{% include gallery caption="Image gallery." %}
+{% include gallery caption="Awesome selfhosted" %}
