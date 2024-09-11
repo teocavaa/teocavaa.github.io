@@ -1,36 +1,28 @@
 ---
-title: "Carriera"
+title: "Esperienze formative"
 layout: splash
-permalink: /carriera/
+permalink: /exp/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/logo.jpg
-  actions:
-    - label: "Download CV"
-      url: "/assets/images/pdf/cv.pdf"
-  caption: "Photo credit: Matteo Cavalleri"
-intro: 
-  - excerpt: 'Ecco la raccolta dei miei progetti.'
+  overlay_image: /assets/images/exp.jpg
+#excerpt: "“Saggezza e buon senso si ottengono in tre modi: primo con la riflessione, che è la cosa più nobile; secondo attraverso l'imitazione, che è la cosa più semplice; e terzo con l'esperienza, che è la cosa più amara di tutte.”"
 feature_row:
-  - image_path: assets/images/polimi.jpg
-    alt: "PoliMI"
-    title: "Formazione universitaria"
+  - image_path: assets/images/azpn.png
+    alt: "Pneumatica"
+    title: "Operatore CNC"
     excerpt: ""
-    url: "https://teocavaa.github.io/portfolio/laurea/"
     btn_label: "Read More"
+    url: "https://teocavaa.github.io/portfolio/az/"
     btn_class: "btn--primary"
-  - image_path: /assets/images/hci.png
-    alt: "HCI"
-    title: "Progetto di Human - Computer - Interaction"
+  - image_path: /assets/images/canterbury.jpg
+    alt: "Canterbury"
+    title: "Canterbury"
     excerpt: ""
-    url: "https://teocavaa.github.io/polive/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/domotica.webp
-    title: "Domotica"
+  - image_path: /assets/images/ciao.png
+    title: ""
     excerpt: ""
-    url: "https://teocavaa.github.io/portfolio/domotica/"
+    url: ""
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
