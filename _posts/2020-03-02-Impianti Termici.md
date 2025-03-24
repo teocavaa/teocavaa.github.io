@@ -1,13 +1,7 @@
 ---
-title:  How to use Multiple Images in a Carousel
+title:  Percorso Progettazione Impianti Termici
 tags:
-  - Friday Theme
-  - HTML
-  - images
-  - Markdown
-  - Liquid
-  - Carousel
-  - Image Gallery
+  - CEFTI
 images:
   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
   - https://images.unsplash.com/photo-1504626835342-6b01071d182e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=975855d515c9d56352ee3bfe74287f2b&auto=format&fit=crop&w=1651&q=80
@@ -16,15 +10,12 @@ images:
   - https://images.unsplash.com/photo-1500402448245-d49c5229c564?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f19c590b253f803a7f9b643c59017160&auto=format&fit=crop&w=1650&q=80
 ---
 
-Here's an example for multiple images that uses Bootstrap's Carousel javascript component for a photo slideshow. You don't need to write any JavaScript, just place some Liquid tags and HTML in your Markdown.
+DESCRIVERE PERCORSO CEFTI
 
-<!--more-->
-
-To automate the layout, a list of images is stored in a frontmatter variable. The post then loops over that list to output the carousel. This is easier than copy-pasting the same HTML for each image.
 
 Here's the carousel in action.
 
-<div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
+<!--><div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
     <div class="carousel-inner">
         {% for img in page.images %}
             <div class="carousel-item {% if forloop.first %}active{% endif %}">
@@ -41,8 +32,15 @@ Here's the carousel in action.
         <span class="sr-only">Next</span>
     </a>
 </div>
-
-(The photos are from [Unsplash](http://www.unsplash.com)!)
+<!-->
+<div class="card mb-3">
+    <img class="card-img-top" src="/theme/img/cefti.png"/>
+    <div class="card-body bg-light">
+        <div class="card-text">
+            Centro Formativo Termotecnico Italiano
+        </div>
+    </div>
+</div>
 
 To create this, put a list of image URLs in your page's front matter, like this:
 
