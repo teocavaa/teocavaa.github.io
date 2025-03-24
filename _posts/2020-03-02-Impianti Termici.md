@@ -12,10 +12,11 @@ images:
 
 DESCRIVERE PERCORSO CEFTI
 
+<!--more-->
 
 Here's the carousel in action.
 
-<!--><div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
+<div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
     <div class="carousel-inner">
         {% for img in page.images %}
             <div class="carousel-item {% if forloop.first %}active{% endif %}">
@@ -32,15 +33,7 @@ Here's the carousel in action.
         <span class="sr-only">Next</span>
     </a>
 </div>
-<!-->
-<div class="card mb-3">
-    <img class="card-img-top" src="/theme/img/cefti.png"/>
-    <div class="card-body bg-light">
-        <div class="card-text">
-            Centro Formativo Termotecnico Italiano
-        </div>
-    </div>
-</div>
+
 
 To create this, put a list of image URLs in your page's front matter, like this:
 
