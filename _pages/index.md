@@ -23,7 +23,7 @@ This web site is the documentation for the theme and also provides examples of h
 
 ### Progetti
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:4 %}
 {% include components/post-card.html %}
 {% endfor %}
 
