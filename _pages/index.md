@@ -45,7 +45,7 @@ Attualmente lavoro come Consulente Tecnico per l’Innovazione, affiancando azie
 
 - Integrazione di tecnologie Industry 4.0
 
-# Percorso formativo e professionale
+### Percorso formativo e professionale
 - Laurea in Ingegnere dell’Automazione – Politecnico di Milano
     Tesi su: [Argomento, se rilevante, es: “Ottimizzazione energetica negli impianti industriali”]
 
@@ -53,7 +53,7 @@ Attualmente lavoro come Consulente Tecnico per l’Innovazione, affiancando azie
 
 - Esperienza come Consulente per l’Innovazione – Supporto alle aziende nella transizione verso sistemi automatizzati, sostenibili e all’avanguardia con analisi di fattibilità.
 
-# Competenze chiave
+### Competenze chiave
 - Progettazione di impianti termici ed energetici
 
 - Sviluppo di sistemi di automazione industriale (PLC, SCADA, IoT)

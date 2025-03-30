@@ -1,5 +1,5 @@
 ---
-title:  How to use Multiple Images in a Masonry-style layout
+title:  Certificazioni
 tags:
   - Friday Theme
   - HTML
