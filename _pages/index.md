@@ -12,9 +12,9 @@ title: WorkInProgress
 <br>
 
 Qui troverai:
-✅ I miei progetti – Dalla progettazione di impianti termici all’automazione industriale passando per l'automazione domotica; ogni lavoro racconta soluzioni ingegneristiche precise e affidabili.
-✅ Percorsi formativi – Guide, risorse e approfondimenti che ho seguito e con il quale mi sono formato in ambito lavorativo.
-✅ Approccio pratico – Condivido non solo i risultati, ma anche metodologie, calcoli e strumenti che utilizzo, perché la trasparenza tecnica è alla base del progresso.
+<br>✅ I miei progetti – Dalla progettazione di impianti termici all’automazione industriale passando per l'automazione domotica; ogni lavoro racconta soluzioni ingegneristiche precise e affidabili.
+<br>✅ Percorsi formativi – Guide, risorse e approfondimenti che ho seguito e con il quale mi sono formato in ambito lavorativo.
+<br>✅ Approccio pratico – Condivido non solo i risultati, ma anche metodologie, calcoli e strumenti che utilizzo, perché la trasparenza tecnica è alla base del progresso.
 
 Perché questo sito?
 Perché credo che l’ingegneria debba essere accessibile, concreta e in continua evoluzione. Qui troverai contenuti tecnici ma chiari, con un focus su:
