@@ -9,7 +9,7 @@ title: WorkInProgress
 
 {% include components/intro.md %}
 
-Sono Matteo Cavalleri, Ingegnere dell’Automazione | Ingegnere Industriale | Progettista di Impianti Termici, e questo sito è il mio portfolio tecnico, dove condivido conoscenza, esperienza e innovazione nel campo dell’ingegneria applicata all'automazione ed efficienza energetica.
+<br>
 
 Qui troverai:
 ✅ I miei progetti – Dalla progettazione di impianti termici all’automazione industriale passando per l'automazione domotica; ogni lavoro racconta soluzioni ingegneristiche precise e affidabili.
@@ -37,7 +37,7 @@ Ingegnere | Progettista | Formatore
 ## Carriera
 
 Sono Matteo, Ingegnere dell’Automazione laureato al Politecnico di Milano, con iscrizione all’Albo degli Ingegneri Industriali (classe L-9).
-
+<br>
 Attualmente lavoro come Consulente Tecnico per l’Innovazione, affiancando aziende e professionisti nell’adozione di soluzioni avanzate in ambito industriale, con un focus su:
 
 - Automazione e controllo di processi
@@ -46,7 +46,7 @@ Attualmente lavoro come Consulente Tecnico per l’Innovazione, affiancando azie
 
 - Integrazione di tecnologie Industry 4.0
 
-Percorso formativo e professionale
+# Percorso formativo e professionale
 - Laurea in Ingegnere dell’Automazione – Politecnico di Milano
     Tesi su: [Argomento, se rilevante, es: “Ottimizzazione energetica negli impianti industriali”]
 
@@ -54,7 +54,7 @@ Percorso formativo e professionale
 
 - Esperienza come Consulente per l’Innovazione – Supporto alle aziende nella transizione verso sistemi automatizzati, sostenibili e all’avanguardia con analisi di fattibilità.
 
-Competenze chiave
+# Competenze chiave
 - Progettazione di impianti termici ed energetici
 
 - Sviluppo di sistemi di automazione industriale (PLC, SCADA, IoT)
