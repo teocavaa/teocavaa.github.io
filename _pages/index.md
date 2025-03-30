@@ -46,7 +46,7 @@ Attualmente lavoro come Consulente Tecnico per l’Innovazione, affiancando azie
 
 - Integrazione di tecnologie Industry 4.0
 
-# Percorso formativo e professionale
+Percorso formativo e professionale
 - Laurea in Ingegnere dell’Automazione – Politecnico di Milano
     Tesi su: [Argomento, se rilevante, es: “Ottimizzazione energetica negli impianti industriali”]
 
@@ -54,16 +54,16 @@ Attualmente lavoro come Consulente Tecnico per l’Innovazione, affiancando azie
 
 - Esperienza come Consulente per l’Innovazione – Supporto alle aziende nella transizione verso sistemi automatizzati, sostenibili e all’avanguardia con analisi di fattibilità.
 
-# Competenze chiave
+Competenze chiave
 - Progettazione di impianti termici ed energetici
 
 - Sviluppo di sistemi di automazione industriale (PLC, SCADA, IoT)
 
 - Diagnosi energetica e ottimizzazione dei consumi
 
-Ho collaborato con [aziende]({{ site.baseurl }}{% link pages/about.md %}) per valutazioni in ottica "Transizione 5.0
+Ho collaborato con [aziende](https://teocavaa.github.io/about.html) per valutazioni in ottica "Transizione 5.0
 
-# Missione professionale
+Missione professionale
 Credo nel ruolo dell’ingegneria come motore di innovazione sostenibile: il mio obiettivo è tradurre le esigenze tecniche in soluzioni pratiche, garantendo affidabilità, risparmio energetico e adattabilità alle sfide del mercato.
 
 <hr />
