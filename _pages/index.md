@@ -31,7 +31,7 @@ Oltre ai progetti, offro supporto tecnico specializzato per ottimizzare impianti
 
 <br>
 Matteo Cavalleri
-Ingegnere | Progettista | Formatore
+Ingegnere | Progettista
 
 ## Carriera
 
