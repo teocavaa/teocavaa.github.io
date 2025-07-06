@@ -15,24 +15,6 @@ Qui troverai:
 <br>✅ Percorsi formativi – Guide, risorse e approfondimenti che ho seguito e con il quale mi sono formato in ambito lavorativo.
 <br>✅ Approccio pratico – Condivido non solo i risultati, ma anche metodologie, calcoli e strumenti che utilizzo, perché la trasparenza tecnica è alla base del progresso.
 
-<br>
-Perché questo sito?
-Perché credo che l’ingegneria debba essere accessibile, concreta e in continua evoluzione. Qui troverai contenuti tecnici ma chiari, con un focus su:
-
-- Automazione e controllo industriale e residenziale
-
-- Progettazione termica ed energetica
-
-- Innovazione negli impianti industriali
-
-Se sei un professionista del settore, un collega o uno studente curioso, spero che queste risorse possano esserti utili.
-<br>
-Oltre ai progetti, offro supporto tecnico specializzato per ottimizzare impianti e processi industriali.
-
-<br>
-Matteo Cavalleri
-Ingegnere | Progettista
-
 ## Carriera
 
 Sono Matteo, Ingegnere dell’Automazione laureato al Politecnico di Milano, con iscrizione all’Albo degli Ingegneri Industriali (classe L-9).
@@ -43,7 +25,7 @@ Attualmente lavoro come Consulente Tecnico per l’Innovazione, affiancando azie
 
 - Efficienza energetica nei processi produttivi
 
-- Integrazione di tecnologie Industry 4.0
+- Integrazione di tecnologie Industry 5.0
 
 ### Percorso formativo e professionale
 - Laurea in Ingegnere dell’Automazione – Politecnico di Milano
@@ -65,6 +47,10 @@ Ho collaborato con [aziende](https://teocavaa.github.io/about.html) per valutazi
 Missione professionale
 Credo nel ruolo dell’ingegneria come motore di innovazione sostenibile: il mio obiettivo è tradurre le esigenze tecniche in soluzioni pratiche, garantendo affidabilità, risparmio energetico e adattabilità alle sfide del mercato.
 
+<br>
+
+Matteo Cavalleri
+Ingegnere | Progettista
 <hr />
 
 ### Progetti
