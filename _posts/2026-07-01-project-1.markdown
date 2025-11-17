@@ -3,11 +3,11 @@ title: Control of electrical machine
 subtitle: DC motor
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2026-07-01
 img: dreams.png
 thumbnail: dreams.png
 alt: image-alt
-project-date: April 2014
+project-date: July 2026
 client: Politecnico di Milano
 category: Drive control
 description: Il progetto consiste nel controllo di un motore in corrente continua....
