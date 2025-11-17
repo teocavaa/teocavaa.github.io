@@ -3,7 +3,7 @@ title: Control of electrical machine
 subtitle: DC motor
 layout: default
 modal-id: 1
-date: 2026-07-01
+date: 2025-11-01
 img: dreams.png
 thumbnail: dreams.png
 alt: image-alt
