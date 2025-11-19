@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Modelling and control of energy systems
+subtitle: Advanced process control
 layout: default
 modal-id: 4
 date: 2014-07-15
