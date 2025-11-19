@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Matteo Cavalleri
-  pic: 2
+  pic: 1
   position: Process Engineer
   social:
     - title: linkedin
@@ -20,7 +20,7 @@ people:
    # - title: facebook
    #   url: #
 
-#- name: Matteo Cavalleri
+#- name: Larry Parker
 #  pic: 2
 #  position: Lead Marketer
 #  social:
