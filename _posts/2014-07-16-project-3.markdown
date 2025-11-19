@@ -1,5 +1,5 @@
 ---
-title: Software development
+title: Software Engineering
 subtitle: Software engineering for automation
 layout: default
 modal-id: 3

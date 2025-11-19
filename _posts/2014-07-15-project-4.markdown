@@ -1,5 +1,5 @@
 ---
-title: Modelling and control of energy systems
+title: Advanced Process Control
 subtitle: Advanced process control
 layout: default
 modal-id: 4

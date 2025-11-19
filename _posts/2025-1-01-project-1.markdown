@@ -1,5 +1,5 @@
 ---
-title: Control of electrical machine
+title: Electrical Machine and Drives
 subtitle: DC motor
 layout: default
 modal-id: 1
